@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ⭐ GitHub Stats
+<!-- ### ⭐ GitHub Stats -->
 
 <!-- GITHUB_STATS:START -->
 [![eliax1996's GitHub Stats](https://github-readme-stats-coral-ten.vercel.app/api?username=eliax1996&hide_border=true)]()
