@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+<!--
+
 ### Languages and Tools I Use:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,arduino,aws,js,html,bootstrap,css,cpp,java,jquery,github,laravel,md,mysql,nginx,nodejs,php,py,raspberrypi,regex,stackoverflow,visualstudio,vscode,wordpress,androidstudio)](https://skillicons.dev)
@@ -44,18 +46,20 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+-->
+
 ---
 
 ### ⭐ GitHub Stats
 
 <!-- GITHUB_STATS:START -->
-[![eliax1996's GitHub Stats](https://github-readme-stats-coral-ten.vercel.app/api?username=eliax1996&show_icons=true&theme=radical&hide_border=true)]()
+[![eliax1996's GitHub Stats](https://github-readme-stats-coral-ten.vercel.app/api?username=eliax1996&hide_border=true)]()
 <!-- GITHUB_STATS:END -->
 
 ### 🙊 Top Languages
 
 <!-- TTOP_LAN:START -->
-[![Cale Torino's Top Languages](https://github-readme-stats-coral-ten.vercel.app/api/top-langs/?username=elia1996o&theme=radical&hide_border=true&layout=compact)]()
+[![Cale Torino's Top Languages](https://github-readme-stats-coral-ten.vercel.app/api/top-langs/?username=elia1996&theme=radical&hide_border=true&layout=compact)]()
 <!-- TOP_LAN:END -->
 
 ### 🏆 Github Profile Trophy
@@ -63,7 +67,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cale-Torino&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
-[![Readme Card](https://github-readme-stats-coral-ten.vercel.app/api/pin/?username=eliax1996o&repo=github-readme-stats&theme=radical&hide_border=true)]()
+[![Readme Card](https://github-readme-stats-coral-ten.vercel.app/api/pin/?username=eliax1996o&repo=github-readme-stats&hide_border=true)]()
 -->
 
 <!--
