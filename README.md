@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 <!-- ### ⭐ GitHub Stats -->
 
 <!-- GITHUB_STATS:START -->
-[![eliax1996's GitHub Stats](https://github-readme-stats-coral-ten.vercel.app/api?username=eliax1996&hide_border=true)]()
+[![eliax1996's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliax1996&rank_icon=percentile&hide_border=true)]()
 <!-- GITHUB_STATS:END -->
